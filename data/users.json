@@ -1,0 +1,16 @@
+{
+  "Taylor": {
+    "password": "befc2c56ada11d5985be2de2ba655b78bb9441a36687c0af63b582cfdc5d5938",
+    "email": "Shettytanvi34@gmail.com",
+    "preferences": {
+      "default_location": "bangalore",
+      "alert_types": [
+        "ISS",
+        "Meteor",
+        "Aurora",
+        "Launch"
+      ],
+      "notification_method": "email"
+    }
+  }
+}
